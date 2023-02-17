@@ -10,7 +10,7 @@ body {
     line-height: 1.2;
     font-family: Arial, "Trebuchet MS", sans-serif;
     color: #a0a0a0;
-    background: url(/gamer-heart-free-standard/images/bg.gif) repeat 0 0;
+    background: url(/images/bg.gif) repeat 0 0;
     text-align: left;
 }
 
@@ -114,7 +114,7 @@ a:hover {
     line-height: 31px;
     color: #fff;
     text-transform: uppercase;
-    background: url(/gamer-heart-free-standard/images/top-nav-bg.jpg) repeat-x 0 0;
+    background: url(/images/top-nav-bg.jpg) repeat-x 0 0;
 }
 
 #top-nav ul li {
@@ -129,7 +129,7 @@ a:hover {
     color: #fff;
     text-decoration: none;
     padding: 0 10px 0 8px;
-    background: url(/gamer-heart-free-standard/images/top-nav-sep.gif) no-repeat right 0;
+    background: url(/images/top-nav-sep.gif) no-repeat right 0;
 }
 
 #top-nav ul li a:hover {
@@ -138,7 +138,7 @@ a:hover {
 
 #top-nav ul li.last {
     padding-right: 4px;
-    background: url(/gamer-heart-free-standard/images/top-nav-last.gif) no-repeat right 0;
+    background: url(/images/top-nav-last.gif) no-repeat right 0;
 }
 
 #top-nav ul li.last a {
@@ -147,7 +147,7 @@ a:hover {
 
 #top-nav ul li.home {
     width: 88px;
-    background: url(/gamer-heart-free-standard/images/top-nav-home.gif) no-repeat 0 0;
+    background: url(/images/top-nav-home.gif) no-repeat 0 0;
 }
 
 #top-nav ul li.home a {
@@ -165,15 +165,15 @@ a:hover {
     float: right;
     display: inline;
     line-height: 32px;
-    background: url(/gamer-heart-free-standard/images/main-nav-bg.gif) repeat-x 0 0;
+    background: url(/images/main-nav-bg.gif) repeat-x 0 0;
 }
 
 #main-nav .bg-right {
-    background: url(/gamer-heart-free-standard/images/main-nav-bg-right.gif) no-repeat right 0 0;
+    background: url(/images/main-nav-bg-right.gif) no-repeat right 0 0;
 }
 
 #main-nav .bg-left {
-    background: url(/gamer-heart-free-standard/images/main-nav-bg-left.gif) no-repeat 0 0;
+    background: url(/images/main-nav-bg-left.gif) no-repeat 0 0;
     padding-left: 32px;
     width: 676px;
 }
@@ -189,7 +189,7 @@ a:hover {
     float: left;
     display: inline;
     list-style-type: none;
-    background: url(/gamer-heart-free-standard/images/main-nav-sep.gif) no-repeat right 0;
+    background: url(/images/main-nav-sep.gif) no-repeat right 0;
 }
 
 #main-nav ul li a {
@@ -206,17 +206,17 @@ a:hover {
 
 #sort-nav {
     line-height: 46px;
-    background: url(/gamer-heart-free-standard/images/sort-nav-bg.gif) repeat-x 0 0;
+    background: url(/images/sort-nav-bg.gif) repeat-x 0 0;
 }
 
 #sort-nav .bg-left {
-    background: url(/gamer-heart-free-standard/images/sort-nav-bg-left.gif) no-repeat 0 0;
+    background: url(/images/sort-nav-bg-left.gif) no-repeat 0 0;
     position: relative;
     height: 46px;
 }
 
 #sort-nav .bg-right {
-    background: url(/gamer-heart-free-standard/images/sort-nav-bg-right.gif) no-repeat right 0;
+    background: url(/images/sort-nav-bg-right.gif) no-repeat right 0;
     position: relative;
     height: 46px;
 }
@@ -246,7 +246,7 @@ a:hover {
     font-size: 0;
     line-height: 0;
     text-indent: -4000px;
-    background: url(/gamer-heart-free-standard/images/sort-nav-sep.gif);
+    background: url(/images/sort-nav-sep.gif);
 }
 
 #sort-nav ul li a:hover {
@@ -263,24 +263,24 @@ a:hover {
 }
 
 #sort-nav ul li.first-active a {
-    background: url(/gamer-heart-free-standard/images/nav-active-first.gif) no-repeat 0 0;
+    background: url(/images/nav-active-first.gif) no-repeat 0 0;
 }
 
 #sort-nav ul li.active span.sep {
-    background-image: url(/gamer-heart-free-standard/images/nav-active-sep.gif);
+    background-image: url(/images/nav-active-sep.gif);
 }
 
 #sort-nav ul li.active {
-    background: url(/gamer-heart-free-standard/images/nav-active-bg.gif) repeat-x 0 0;
+    background: url(/images/nav-active-bg.gif) repeat-x 0 0;
 }
 
 #main {
-    background: #050505 url(/gamer-heart-free-standard/images/main-bg.gif) no-repeat 0 0;
+    background: #050505 url(/images/main-bg.gif) no-repeat 0 0;
     padding-top: 10px;
 }
 
 #main-bot {
-    background: #050505 url(/gamer-heart-free-standard/images/main-bot-bg.gif) no-repeat 0 bottom;
+    background: #050505 url(/images/main-bot-bg.gif) no-repeat 0 bottom;
     padding: 0 10px 2px 10px;
     height: 100%;
     position: relative;
@@ -316,12 +316,12 @@ a:hover {
 }
 
 .block .head {
-    background: url(/gamer-heart-free-standard/images/block-head.gif) no-repeat 0 0;
+    background: url(/images/block-head.gif) no-repeat 0 0;
     padding-left: 15px;
 }
 
 .block .head .head-cnt {
-    background: url(/gamer-heart-free-standard/images/block-head.gif) no-repeat right 0;
+    background: url(/images/block-head.gif) no-repeat right 0;
     line-height: 38px;
     height: 38px;
     padding-right: 13px;
@@ -339,7 +339,7 @@ a:hover {
     width: 61px;
     height: 18px;
     line-height: 16px;
-    background: url(/gamer-heart-free-standard/images/block-head-view-all.gif);
+    background: url(/images/block-head-view-all.gif);
     margin-top: 12px;
 }
 
@@ -355,23 +355,23 @@ a:hover {
 }
 
 #content .block {
-    background-image: url(/gamer-heart-free-standard/images/content-block-top.gif);
+    background-image: url(/images/content-block-top.gif);
     background-color: #313131;
     width: 657px;
 }
 
 #content .block .block-bot {
-    background-image: url(/gamer-heart-free-standard/images/content-block-bot.gif);
+    background-image: url(/images/content-block-bot.gif);
 }
 
 #sidebar .block {
-    background-image: url(/gamer-heart-free-standard/images/sidebar-block-top.gif);
+    background-image: url(/images/sidebar-block-top.gif);
     background-color: #484848;
     width: 226px;
 }
 
 #sidebar .block .block-bot {
-    background-image: url(/gamer-heart-free-standard/images/sidebar-block-bot.gif);
+    background-image: url(/images/sidebar-block-bot.gif);
 }
 
 
@@ -384,7 +384,7 @@ a:hover {
     display: inline;
     width: 170px;
     height: 22px;
-    background: url(/gamer-heart-free-standard/images/search-field.gif) no-repeat 0 0;
+    background: url(/images/search-field.gif) no-repeat 0 0;
     padding-left: 18px;
 }
 
@@ -408,7 +408,7 @@ a:hover {
 }
 
 #search .button {
-    background: url(/gamer-heart-free-standard/images/search-button.gif) no-repeat 0 0;
+    background: url(/images/search-button.gif) no-repeat 0 0;
 }
 
 #sign .block-cnt {
@@ -429,7 +429,7 @@ a:hover {
 #sign .button {
     width: 105px;
     height: 29px;
-    background: url(/gamer-heart-free-standard/images/sign-button.gif) no-repeat 0 0;
+    background: url(/images/sign-button.gif) no-repeat 0 0;
 }
 
 #sign .button:hover {
@@ -459,7 +459,7 @@ a:hover {
 
 #sidebar .articles .article {
     padding: 8px 7px;
-    background: url(/gamer-heart-free-standard/images/sidebar-article-sep.gif) repeat-x 0 bottom;
+    background: url(/images/sidebar-article-sep.gif) repeat-x 0 bottom;
     font-size: 11px;
     color: #a0a0a0;
 }
@@ -548,7 +548,7 @@ a:hover {
 
 #content .row-articles .article {
     padding: 10px 15px 12px 15px;
-    background: url(/gamer-heart-free-standard/images/content-article-sep.gif) repeat-x 0 bottom;
+    background: url(/images/content-article-sep.gif) repeat-x 0 bottom;
 }
 
 #content .row-articles .last-article {
@@ -606,11 +606,11 @@ a:hover {
 }
 
 #slider .buttons span.prev {
-    background: url(/gamer-heart-free-standard/images/button-prev.png) no-repeat 0 0;
+    background: url(/images/button-prev.png) no-repeat 0 0;
 }
 
 #slider .buttons span.next {
-    background: url(/gamer-heart-free-standard/images/button-next.png) no-repeat 0 0;
+    background: url(/images/button-next.png) no-repeat 0 0;
 }
 
 #slider .holder {
@@ -649,7 +649,7 @@ a:hover {
     top: 0;
     left: 0;
     z-index: 100;
-    background: url(/gamer-heart-free-standard/images/slider-image-bg.png) no-repeat 0 0;
+    background: url(/images/slider-image-bg.png) no-repeat 0 0;
 }
 
 #slider .frame {
@@ -661,7 +661,7 @@ a:hover {
 #slider .fragment .cnt {
     margin-top: 5px;
     height: 49px;
-    background: url(/gamer-heart-free-standard/images/slider-cnt-bg.gif) repeat-x;
+    background: url(/images/slider-cnt-bg.gif) repeat-x;
     color: #fff;
     font-size: 11px;
     line-height: 1.4;
@@ -709,11 +709,11 @@ a:hover {
 }
 
 #slider .fragment .cnt .rating li .empty-star {
-    background: url(/gamer-heart-free-standard/images/empty-star.gif);
+    background: url(/images/empty-star.gif);
 }
 
 #slider .fragment .cnt .rating li .full-star {
-    background: url(/gamer-heart-free-standard/images/full-star.gif);
+    background: url(/images/full-star.gif);
 }
 
 #slider .fragment .cnt .rating li .votes {
@@ -736,7 +736,7 @@ a:hover {
 }
 
 #footer .navs {
-    background: #222 url(/gamer-heart-free-standard/images/footer-navs-top.gif) no-repeat 0 0;
+    background: #222 url(/images/footer-navs-top.gif) no-repeat 0 0;
     text-align: center;
     font-size: 10px;
     text-transform: uppercase;
@@ -746,7 +746,7 @@ a:hover {
 }
 
 #footer .navs .navs-bot {
-    background: url(/gamer-heart-free-standard/images/footer-navs-bot.gif) no-repeat 0 bottom;
+    background: url(/images/footer-navs-bot.gif) no-repeat 0 bottom;
     height: 100%;
     position: relative;
 }
